@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "173919586870",
+    "project_id": "kadecsrowy",
+    "storage_bucket": "kadecsrowy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173919586870:android:c9a91cff759dab62aa6697",
+        "android_client_info": {
+          "package_name": "com.mycompany.kadecs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173919586870-e3ronupei2i4vs0ikv8f95idk415i0q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.kadecs",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "173919586870-0n4q162d79s8u5k8s1h87kc8h462dg55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Tx_CmPjKZd66DOBCEvYHPChtT6d2KzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173919586870-0n4q162d79s8u5k8s1h87kc8h462dg55.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173919586870-4ir1ql3f5cm5m3550cfle7fjbbsk4930.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.kadecs"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173919586870:android:f3bfe8e072fe845eaa6697",
+        "android_client_info": {
+          "package_name": "com.mycompany.testkadecs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173919586870-0n4q162d79s8u5k8s1h87kc8h462dg55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Tx_CmPjKZd66DOBCEvYHPChtT6d2KzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173919586870-0n4q162d79s8u5k8s1h87kc8h462dg55.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173919586870-4ir1ql3f5cm5m3550cfle7fjbbsk4930.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.kadecs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
